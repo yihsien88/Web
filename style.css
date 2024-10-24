@@ -19,6 +19,7 @@ img {
 }
 
 header {
+    padding: 15px 50px;
     display: flex;
     justify-content: space-between;
     /*主軸對齊模式：貼齊左右均分*/
